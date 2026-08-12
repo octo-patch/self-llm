@@ -12,6 +12,7 @@
 - [GLM-4.7-Flash](#glm-47-flash)
 - [谷歌-Gemma3](#谷歌-gemma3)
 - [MiniMax-M3](#minimax-m3)
+- [MiniMax-M2.7](#minimax-m27)
 - [MiniMax-M2.5](#minimax-m25)
 - [MiniMax-M2](#minimax-m2)
 - [Qwen3-VL-4B-Instruct](#qwen3-vl-4b-instruct)
@@ -125,6 +126,16 @@
 - [x] [MiniMax-M3 vLLM 部署调用](./models/MiniMax-M3/1-MiniMax-M3-vLLM.md)
 - [x] [MiniMax-M3 SGLang 部署调用](./models/MiniMax-M3/2-MiniMax-M3-SGLang.md)
 - [x] [MiniMax-M3 Transformers 部署调用](./models/MiniMax-M3/3-MiniMax-M3-Transformers.md)
+
+### MiniMax-M2.7
+
+[MiniMax-M2.7](https://github.com/MiniMax-AI/MiniMax-M2.7)
+- [x] [MiniMax-M2.7 online experience](https://agent.minimax.io/)
+- [x] [MiniMax-M2.7 on Hugging Face](https://huggingface.co/MiniMaxAI/MiniMax-M2.7)
+- [x] [MiniMax-M2.7 text generation guide](https://platform.minimax.io/docs/guides/text-generation)
+- [x] [MiniMax-M2.7 vLLM deployment](./models/MiniMax-M2.7/1-MiniMax-M2.7-vLLM.md)
+- [x] [MiniMax-M2.7 SGLang deployment](./models/MiniMax-M2.7/2-MiniMax-M2.7-SGLang.md)
+- [x] [MiniMax-M2.7 Transformers deployment](./models/MiniMax-M2.7/3-MiniMax-M2.7-Transformers.md)
 
 ### MiniMax-M2.5
 
